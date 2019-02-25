@@ -1,0 +1,8 @@
+C:\Users\91260\AppData\Local\Temp\ccirWs1Y.o:main.c:(.text+0x55): undefined reference to `print_edit_distance'
+C:\Users\91260\AppData\Local\Temp\ccirWs1Y.o:main.c:(.text+0x6f): undefined reference to `print_all_edits'
+C:\Users\91260\AppData\Local\Temp\ccirWs1Y.o:main.c:(.text+0xc0): undefined reference to `print_checked'
+C:\Users\91260\AppData\Local\Temp\ccirWs1Y.o:main.c:(.text+0xd6): undefined reference to `print_corrected'
+C:\Users\91260\AppData\Local\Temp\ccirWs1Y.o:main.c:(.text+0x4ee): undefined reference to `new_list'
+C:\Users\91260\AppData\Local\Temp\ccirWs1Y.o:main.c:(.text+0x5b3): undefined reference to `list_add_end'
+C:\Users\91260\AppData\Local\Temp\ccirWs1Y.o:main.c:(.text+0x694): undefined reference to `free_list'
+collect2.exe: error: ld returned 1 exit status

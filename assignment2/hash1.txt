@@ -1,0 +1,1005 @@
+initialising table of size 1000...
+reading and counting words from stdin... (press ^D to stop)
+
+finished hashing words
+resulting hash table:
+   0|->("Elmo's": 1)
+   1|
+   2|->("lamp": 1)
+   3|
+   4|
+   5|->("stone": 1)->("equivalent": 1)->("conducting": 3)
+   6|->("base": 1)->("issue": 1)
+   7|->("warhead": 1)->("demonstration": 3)
+   8|->("points": 1)->("formation": 1)->("military": 1)
+   9|->("responds": 1)->("a": 112)
+  10|
+  11|->("alien": 1)->("exploded": 2)
+  12|->("witnesses": 1)
+  13|->("megatons": 3)
+  14|
+  15|->("ominous": 1)->("convey": 1)->("residents": 1)
+  16|->("ultra": 2)
+  17|->("World": 1)->("approximately": 1)
+  18|
+  19|->("magnifying": 1)
+  20|
+  21|->("century": 1)->("claims": 1)->("made": 2)
+  22|->("skies": 1)
+  23|->("Human": 1)
+  24|->("originally": 1)->("as": 16)
+  25|->("emphasis": 1)
+  26|->("uninterested": 1)->("these": 1)->("distance": 9)
+  27|->("forest": 1)->("at": 23)
+  28|
+  29|
+  30|->("allow": 1)->("nothing": 1)->("thirty": 1)
+  31|->("object": 3)
+  32|->("electrodynamics": 1)->("speed": 1)->("radiation": 1)
+  33|->("writings": 1)
+  34|->("am": 1)->("potential": 3)
+  35|->("all": 3)
+  36|->("backing": 1)
+  37|->("an": 31)
+  38|->("confess": 1)
+  39|
+  40|->("blast": 1)->("during": 3)->("Receiving": 1)->("ships": 1)
+  41|
+  42|->("hour": 1)
+  43|->("Because": 2)->("likely": 1)
+  44|
+  45|->("meteorites": 1)->("herds": 1)->("electricity": 7)
+  46|->("how": 1)
+  47|->("Maybe": 2)->("The": 31)
+  48|
+  49|->("dynamited": 1)
+  50|->("recognize": 1)->("shorted": 1)->("thru": 1)
+  51|->("caretaker": 1)->("While": 1)
+  52|->("against": 1)
+  53|->("drilled": 1)->("once": 1)
+  54|->("absence": 1)
+  55|->("hospitals": 1)->("rising": 1)
+  56|->("lieu": 1)
+  57|->("research": 1)
+  58|->("April": 1)->("two": 4)->("lies": 1)
+  59|
+  60|->("Whichever": 1)->("Skips": 1)
+  61|->("Fire": 1)
+  62|->("failed": 1)
+  63|->("bombing": 1)->("1000": 1)
+  64|->("obtained": 1)
+  65|->("hair": 1)
+  66|->("recover": 1)->("[transmitter]": 1)
+  67|->("about": 5)
+  68|->("assuming": 1)->("happened": 1)->("caused": 7)
+  69|->("interest": 1)
+  70|
+  71|->("stress": 1)
+  72|->("item": 1)
+  73|->("buy": 2)->("reservoir": 1)->("like": 3)
+  74|->("feasibility": 1)
+  75|->("Dear": 1)->("wasted": 1)
+  76|->("question": 1)->("locating": 1)
+  77|->("charges": 1)
+  78|->("Comet": 1)->("pressures": 1)->("Springs": 10)
+  79|->("picked": 1)->("been": 10)->("however": 2)
+  80|->("developed": 1)
+  81|->("affected": 1)->("above": 2)
+  82|->("Mr": 1)
+  83|->("flattened": 1)
+  84|->("inhabited": 1)->("added": 2)->("usually": 1)->("found": 4)->("but": 13)
+  85|->("cut": 1)->("glowed": 1)
+  86|
+  87|->("gradually": 1)->("forward": 1)
+  88|
+  89|
+  90|
+  91|->("My": 2)->("heard": 2)
+  92|->("particular": 1)->("theories": 1)->("charged": 2)
+  93|->("event": 6)->("Tesla's": 20)
+  94|->("astronomers": 1)
+  95|->("flying": 1)->("cause": 4)
+  96|->("anyone": 1)
+  97|->("literally": 1)
+  98|->("ignoring": 1)
+  99|->("quickly": 1)
+ 100|->("result": 1)->("location": 1)->("version": 2)
+ 101|->("much": 4)->("justified": 1)
+ 102|->("both": 1)->("equally": 1)
+ 103|
+ 104|
+ 105|
+ 106|
+ 107|->("Political": 1)
+ 108|->("mentioned": 1)
+ 109|
+ 110|->("illuminate": 1)->("February": 1)
+ 111|->("matter": 1)->("will": 3)->("areas": 1)
+ 112|->("poised": 1)->("device": 4)
+ 113|->("neither": 1)
+ 114|->("versions": 1)
+ 115|
+ 116|->("topped": 2)
+ 117|->("birthday": 1)->("explosion": 9)
+ 118|->("reporters": 1)->("inflated": 1)->("jumping": 1)
+ 119|->("quit": 1)
+ 120|->("waterfalls": 1)->("operate": 1)
+ 121|->("inside": 1)->("experimental": 2)
+ 122|
+ 123|->("my": 1)->("destroying": 1)
+ 124|->("great": 6)
+ 125|->("curtail": 1)
+ 126|->("rock": 1)->("means": 2)->("left": 1)
+ 127|->("energy": 31)->("remote": 1)
+ 128|->("sued": 2)->("become": 2)
+ 129|->("criminal": 1)->("pine": 1)->("White": 1)->("meant": 1)
+ 130|->("Systems": 1)->("its": 7)
+ 131|
+ 132|->("Rosenholtz": 1)
+ 133|->("earth": 9)
+ 134|->("sensed": 1)->("rays": 6)
+ 135|->("your": 2)->("coal": 1)->("Electric": 2)
+ 136|
+ 137|->("word": 1)->("metal": 3)
+ 138|
+ 139|->("700": 1)->("calculated": 1)
+ 140|
+ 141|->("inventors": 1)
+ 142|->("work": 1)->("company": 4)->("shocks": 1)
+ 143|->("rod": 1)->("walking": 1)
+ 144|
+ 145|->("inconsistent": 1)->("sues": 1)->("warships": 1)->("report": 1)
+ 146|->("fragment": 1)
+ 147|->("country": 1)
+ 148|->("Inc": 1)->("Workers": 1)->("Thunder": 1)
+ 149|
+ 150|->("firing": 1)->("enough": 4)
+ 151|
+ 152|->("area": 4)->("sought": 2)
+ 153|->("later": 1)
+ 154|->("following": 1)->("Seifer": 2)
+ 155|->("Russian": 1)
+ 156|
+ 157|
+ 158|
+ 159|->("beneath": 1)->("parts": 3)
+ 160|->("end": 2)->("Apparently": 1)
+ 161|
+ 162|
+ 163|->("noted": 5)
+ 164|->("some": 3)->("force": 3)
+ 165|->("proposed": 1)
+ 166|->("most": 1)->("fund": 1)
+ 167|->("Whole": 1)->("produced": 2)
+ 168|->("disconnected": 1)
+ 169|->("close": 1)->("panic": 1)->("dwelling": 1)->("thought": 1)
+ 170|
+ 171|->("life": 2)->("torpedoes": 1)->("opposition": 1)
+ 172|->("spring": 1)
+ 173|
+ 174|->("Services": 1)
+ 175|
+ 176|->("funds": 1)->("could": 11)
+ 177|->("planet": 2)
+ 178|->("Peary": 3)
+ 179|->("mere": 1)->("Long": 3)
+ 180|->("astronauts": 1)->("stop": 2)->("explode": 1)
+ 181|->("pump": 1)
+ 182|->("last": 1)->("$150": 2)->("more": 7)
+ 183|->("fireball": 1)->("psychologist": 1)->("manufactured": 1)
+ 184|->("impressive": 1)
+ 185|->("connect": 1)
+ 186|->("effects": 3)
+ 187|->("Energy": 2)
+ 188|
+ 189|->("Joules": 1)
+ 190|->("cites": 1)->("ball": 2)
+ 191|->("direct": 1)->("Tests": 2)
+ 192|
+ 193|->("Ellesmere": 2)
+ 194|->("patents": 1)->("also": 6)
+ 195|
+ 196|->("experimentally": 1)->("Harry": 1)
+ 197|
+ 198|->("declined": 1)->("tests": 4)
+ 199|->("tower": 3)
+ 200|
+ 201|->("which": 8)->("Here": 3)
+ 202|
+ 203|->("rhythmically": 1)->("'St": 1)->("discussion": 1)
+ 204|
+ 205|
+ 206|->("given": 1)->("established": 1)->("such": 5)
+ 207|->("international": 1)->("signals": 1)
+ 208|
+ 209|->("took": 1)->("fields": 1)
+ 210|->("second": 1)->("thus": 1)
+ 211|->("In": 8)->("seven": 1)
+ 212|->("utterance": 1)
+ 213|->("dirigible": 1)
+ 214|->("directed": 1)
+ 215|->("renegade": 1)
+ 216|->("balance": 2)
+ 217|->("Alternative": 1)->("serious": 1)->("It": 4)
+ 218|->("Cheney": 1)->("Commander": 1)
+ 219|->("envisioned": 1)
+ 220|->("Island": 4)->("harnessing": 1)
+ 221|->("public": 1)->("intense": 1)->("generating": 2)
+ 222|->("valise": 1)
+ 223|
+ 224|->("worked": 1)
+ 225|
+ 226|->("stock": 1)
+ 227|->("demonstrated": 2)->("when": 7)
+ 228|->("source": 1)->("nucleus": 1)->("trillions": 1)
+ 229|->("signal": 1)
+ 230|
+ 231|->("miles": 8)
+ 232|->("intended": 2)->("editor": 2)
+ 233|->("suffered": 3)
+ 234|
+ 235|->("Shoreham": 2)->("York": 4)
+ 236|->("earthquake": 1)->("drawback": 1)->("what": 4)
+ 237|->("Pole": 5)->("takes": 1)
+ 238|->("answer": 1)
+ 239|->("none": 1)->("fuel": 1)->("aircraft": 1)
+ 240|
+ 241|
+ 242|->("taken": 1)
+ 243|
+ 244|->("pronounced": 1)
+ 245|->("carry": 1)
+ 246|->("Cripple": 1)
+ 247|
+ 248|
+ 249|->("it": 21)
+ 250|->("winter": 1)->("physical": 1)
+ 251|->("wages": 1)->("noting": 1)->("Military": 1)
+ 252|->("torn": 1)
+ 253|->("meteorite": 2)
+ 254|->("200": 4)
+ 255|->("globe": 3)->("plan": 3)->("experiment": 1)->("halos": 1)
+ 256|->("Edison": 1)
+ 257|
+ 258|->("able": 2)
+ 259|
+ 260|
+ 261|->("perfected": 1)->("apparatus": 2)->("beams": 1)->("vacuum": 1)
+ 262|->("final": 1)
+ 263|
+ 264|->("things": 1)->("huge": 2)
+ 265|->("He": 10)
+ 266|->("equipment": 3)
+ 267|->("if": 2)->("burning": 1)->("electrocute": 1)
+ 268|->("kilowatts": 1)
+ 269|
+ 270|
+ 271|->("come": 1)->("shooting": 1)->("investors": 1)
+ 272|->("less": 2)
+ 273|->("Bureau": 1)
+ 274|
+ 275|->("way": 1)->("in": 60)
+ 276|
+ 277|->("Transmission": 1)
+ 278|->("spot": 2)->("is": 33)->("intensity": 1)
+ 279|->("investigation": 1)->("getting": 1)
+ 280|->("city": 1)
+ 281|
+ 282|->("mysterious": 1)->("Margaret": 1)
+ 283|->("another": 3)
+ 284|->("thousands": 2)->("discharged": 1)
+ 285|->("understand": 1)->("find": 1)->("violet": 2)->("amounts": 2)->("away": 3)
+ 286|->("tube": 1)
+ 287|->("central": 2)->("viewpoint": 1)->("importance": 1)
+ 288|->("same": 4)
+ 289|
+ 290|->("offers": 1)->("Liberty": 1)
+ 291|->("watts": 1)->("streets": 1)
+ 292|->("resist": 1)->("jump": 1)
+ 293|
+ 294|->("received": 5)
+ 295|->("distinction": 1)
+ 296|->("proposal": 1)
+ 297|->("person": 1)->("he": 29)
+ 298|->("Some": 1)->("attacking": 1)
+ 299|->("If": 7)
+ 300|->("creates": 1)
+ 301|->("notoriety": 1)->("sudden": 1)->("heated": 1)->("blew": 1)
+ 302|->("compass": 1)->("attractive": 1)
+ 303|
+ 304|->("composed": 1)->("lightning": 4)->("lead": 1)
+ 305|
+ 306|
+ 307|->("helplessly": 1)
+ 308|->("manifest": 1)->("receiver": 2)->("began": 1)->("put": 5)->("Oliver": 2)
+ 309|->("animals": 2)->("language": 1)
+ 310|->("financing": 1)->("Astor": 1)->("Times": 4)
+ 311|
+ 312|->("positron": 1)->("over": 6)->("may": 6)
+ 313|
+ 314|->("frequencies": 1)
+ 315|
+ 316|->("impossibility": 1)->("grip": 1)->("333": 1)
+ 317|->("created": 3)->("running": 1)
+ 318|->("Associating": 1)->("first": 3)
+ 319|->("comes": 1)->("difference": 1)
+ 320|->("wealthy": 1)
+ 321|
+ 322|->("stories": 2)->("technology": 2)
+ 323|->("mid": 1)->("man": 1)->("stopped": 1)->("wick": 1)
+ 324|->("generators": 3)
+ 325|->("crashing": 1)
+ 326|->("glow": 2)->("Scherff": 1)
+ 327|->("drilling": 1)
+ 328|->("partners": 1)->("levels": 2)->("war": 1)
+ 329|->("assistant": 3)->("from": 24)->("was": 45)
+ 330|
+ 331|
+ 332|->("decade": 1)->("sun's": 1)->("other": 6)
+ 333|->("general": 1)->("Company": 3)
+ 334|->("warfare": 1)
+ 335|->("publicity": 1)->("years": 2)->("Copyright": 1)
+ 336|
+ 337|
+ 338|
+ 339|->("orders": 2)->("funding": 1)->("mind": 2)
+ 340|->("billion": 2)
+ 341|->("$180": 1)
+ 342|->("mini": 1)
+ 343|->("period": 2)->("year": 1)
+ 344|
+ 345|->("current": 5)->("coil": 1)
+ 346|
+ 347|->("adversary": 1)->("site": 1)
+ 348|->("equal": 1)
+ 349|->("500": 1)
+ 350|->("stressing": 1)->("reply": 1)
+ 351|->("world": 8)
+ 352|->("vast": 1)->("This": 4)
+ 353|->("creating": 1)
+ 354|->("French": 2)
+ 355|->("Today": 1)->("German": 1)->("operation": 1)
+ 356|->("coup": 1)->("wherever": 1)
+ 357|->("encountered": 1)
+ 358|->("are": 9)->("watts]": 1)
+ 359|
+ 360|->("hard": 1)->("accomplishment": 1)->("wrote": 3)
+ 361|->("switch": 1)->("waves": 4)->("Creek": 1)
+ 362|->("crater": 4)
+ 363|->("airplanes": 3)
+ 364|->("future": 2)
+ 365|->("fiery": 1)->("bought": 1)->("production": 3)->("1899": 1)
+ 366|->("Picking": 1)
+ 367|->("him": 1)->("enters": 1)
+ 368|->("into": 8)
+ 369|->("harm": 1)
+ 370|->("lawyer": 1)->("realized": 1)
+ 371|->("Wardenclyffe": 10)->("true": 1)->("Moscow": 2)
+ 372|->("have": 19)
+ 373|->("his": 31)
+ 374|->("mistake": 1)->("type": 4)->("project": 1)
+ 375|->("oscillation": 1)->("potentials": 1)
+ 376|
+ 377|
+ 378|->("million": 3)
+ 379|->("depth": 1)->("microscopic": 1)
+ 380|->("researchers": 2)
+ 381|->("estimated": 1)->("series": 1)
+ 382|->("suddenly": 1)->("One": 2)
+ 383|->("sorts": 1)->("within": 3)->("Tesla": 44)
+ 384|->("designed": 1)
+ 385|
+ 386|->("had": 14)
+ 387|->("larger": 2)
+ 388|->("test": 8)->("Similar": 1)->("Aerodome": 1)
+ 389|->("55": 1)->("without": 7)
+ 390|->("desired": 1)->("1976": 1)
+ 391|->("57": 1)
+ 392|->("surface": 1)->("bolted": 1)
+ 393|->("lighting": 1)->("while": 2)->("playing": 1)->("action": 2)
+ 394|->("However": 2)
+ 395|->("iron": 1)
+ 396|
+ 397|->("John": 1)
+ 398|->("greater": 1)->("Without": 1)->("cover": 1)->("powerful": 3)->("though": 1)
+ 399|
+ 400|
+ 401|->("speculative": 1)->("30th": 2)
+ 402|
+ 403|->("radius": 2)->("has": 7)
+ 404|
+ 405|->("probably": 1)->("space": 1)
+ 406|->("wings": 1)
+ 407|
+ 408|->("atmosphere": 2)
+ 409|
+ 410|->("fantasy": 1)->("destruction": 6)
+ 411|->("304": 1)
+ 412|->("strain": 1)->("Paris": 2)
+ 413|->("reindeer": 1)->("unrealized": 1)
+ 414|->("To": 1)->("chronology": 3)
+ 415|->("adopted": 1)
+ 416|->("wave": 5)
+ 417|
+ 418|->("said": 5)->("84003": 1)
+ 419|
+ 420|->("correct": 1)->("Council": 1)
+ 421|->("motion": 1)->("sparks": 2)
+ 422|->("lab": 1)
+ 423|->("build": 1)->("led": 1)
+ 424|->("Again": 2)
+ 425|->("nature": 2)->("People": 1)->("magnetos": 1)
+ 426|
+ 427|->("Puharich's": 1)
+ 428|->("cities": 1)->("volts": 2)->("level": 2)->("effect": 5)
+ 429|->("20": 1)->("Utah": 1)
+ 430|->("activity": 1)
+ 431|
+ 432|->("expected": 1)->("course": 1)
+ 433|
+ 434|->("Westinghouse": 1)
+ 435|->("causing": 2)->("system": 6)
+ 436|->("dismayed": 1)->("payment": 2)->("transmitter's": 1)->("copper": 1)
+ 437|
+ 438|
+ 439|->("affords": 1)->("built": 3)->("frequency": 2)
+ 440|
+ 441|
+ 442|->("magazine": 2)
+ 443|->("On": 2)
+ 444|->("results": 1)->("attention": 2)
+ 445|->("run": 2)
+ 446|->("genius": 1)->("feeling": 1)
+ 447|->("Or": 1)
+ 448|->("resulting": 1)->("problem": 1)->("opened": 1)
+ 449|
+ 450|->("Peary's": 1)->("contemporary": 1)->("bulbs": 1)
+ 451|
+ 452|->("mainly": 1)->("beset": 1)->("mental": 3)->("target": 4)
+ 453|->("roughly": 1)->("idea": 3)->("near": 6)
+ 454|->("Supporters": 1)
+ 455|->("financed": 1)
+ 456|->("desperation": 1)->("certain": 1)
+ 457|->("nervous": 1)
+ 458|->("article": 2)->("mechanisms": 1)->("May": 4)
+ 459|->("repeated": 1)
+ 460|->("realm": 1)->("men": 1)
+ 461|->("so": 9)
+ 462|
+ 463|->("impact": 3)
+ 464|
+ 465|->("supply": 2)->("Light": 1)
+ 466|
+ 467|->("average": 1)->("well": 2)
+ 468|->("seems": 3)->("create": 1)
+ 469|->("must": 3)
+ 470|->("requires": 1)
+ 471|
+ 472|->("Both": 1)
+ 473|->("impression": 1)->("needed": 1)
+ 474|->("loan": 1)
+ 475|->("No": 1)
+ 476|->("bearing": 1)
+ 477|->("Encke's": 1)->("aerial": 2)->("continued": 1)
+ 478|->("Finally": 2)->("Grindell": 5)
+ 479|->("atory": 1)->("Mathew": 1)->("delivering": 1)
+ 480|->("June": 1)
+ 481|->("unison": 1)
+ 482|->("Circumstantial": 1)->("transmitting": 1)
+ 483|
+ 484|->("size": 2)->("relativistic": 1)->("seemed": 1)
+ 485|->("according": 2)->("insulation": 2)
+ 486|->("Such": 1)
+ 487|->("George": 2)->("Duffner": 1)
+ 488|->("TNT": 3)
+ 489|->("makes": 1)->("see": 2)
+ 490|->("fortunes": 1)->("Butterflies": 1)
+ 491|
+ 492|->("owners": 1)->("investment": 1)
+ 493|->("sea": 1)->("1989": 1)
+ 494|
+ 495|->("Not": 1)->("new": 6)->("disable": 1)
+ 496|->("success": 2)->("push": 1)->("000": 12)
+ 497|->("daring": 1)
+ 498|->("attempt": 1)->("who": 4)->("tap": 1)->("Grammachikoff": 1)
+ 499|->("health": 1)->("10": 4)->("twenty": 1)
+ 500|->("facts": 1)
+ 501|->("winds": 1)
+ 502|->("15": 2)->("possible": 5)
+ 503|->("biographer": 1)->("perfectly": 1)->("6th": 1)
+ 504|->("catalyzed": 1)
+ 505|->("subjecting": 1)->("member": 1)
+ 506|->("show": 1)->("Wires": 1)->("set": 2)
+ 507|->("money": 4)->("whole": 2)
+ 508|->("clues": 1)
+ 509|->("several": 3)->("inventor": 4)
+ 510|->("demanded": 1)->("experimented": 1)
+ 511|->("looking": 1)
+ 512|->("creator": 1)
+ 513|->("With": 4)
+ 514|
+ 515|->("sold": 2)->("further": 1)->("evidence": 5)
+ 516|->("timing": 1)
+ 517|
+ 518|->("laws": 1)
+ 519|->("transmit": 1)->("foot": 2)->("electromagnetic": 2)
+ 520|->("Further": 1)
+ 521|->("herded": 1)->("seen": 4)
+ 522|->("744": 1)->("coils": 2)
+ 523|
+ 524|->("Alert": 1)->("187": 1)
+ 525|->("presumed": 1)->("quantity": 1)->("Iena": 2)
+ 526|->("happen": 1)->("you": 2)->("signaling": 1)->("City": 1)->("automobiles": 1)
+ 527|->("would": 34)
+ 528|->("uncovered": 1)->("situation": 1)
+ 529|
+ 530|->("excused": 1)
+ 531|->("black": 1)->("alluded": 1)->("services": 1)
+ 532|->("attack": 1)->("flames": 1)
+ 533|->("explanations": 1)
+ 534|->("motors": 1)
+ 535|->("threat": 1)->("protect": 1)
+ 536|->("lumber": 1)->("pole": 1)
+ 537|->("complete": 1)->("expedition": 3)->("penalty": 1)
+ 538|->("retreat": 1)->("unnecessary": 1)->("used": 9)
+ 539|->("secretary": 1)
+ 540|->("currents": 7)
+ 541|->("London": 2)
+ 542|
+ 543|->("deeded": 1)
+ 544|
+ 545|->("millionth": 1)
+ 546|
+ 547|
+ 548|
+ 549|->("discovered": 1)
+ 550|->("tells": 1)->("remained": 1)->("Spring": 2)
+ 551|
+ 552|->("field": 5)->("mensions": 1)
+ 553|->("electrical": 20)
+ 554|
+ 555|->("no": 8)->("controlling": 2)
+ 556|
+ 557|
+ 558|
+ 559|
+ 560|->("few": 2)
+ 561|->("Just": 1)->("radio": 6)
+ 562|->("transatlantic": 1)->("broadcast": 2)->("purposes": 1)->("transformed": 2)
+ 563|->("writes": 1)->("of": 178)
+ 564|
+ 565|
+ 566|->("throwing": 1)
+ 567|->("media": 1)
+ 568|->("rushing": 1)->("ship's": 1)
+ 569|->("scrap": 1)->("constituents": 1)->("power": 29)->("the": 277)
+ 570|->("formed": 1)
+ 571|->("machine": 5)->("swirled": 1)->("ship": 4)
+ 572|
+ 573|->("nickel": 1)
+ 574|
+ 575|->("polar": 1)->("entire": 1)
+ 576|->("'diabolical": 1)
+ 577|->("electronic": 1)
+ 578|
+ 579|->("believes": 1)
+ 580|
+ 581|->("achieve": 1)->("newspaper": 1)
+ 582|->("measurements": 1)
+ 583|->("historical": 1)->("controlled": 1)->("origin": 1)
+ 584|->("former": 1)->("oppositely": 1)->("say": 1)
+ 585|->("intruder's": 1)->("ray": 8)
+ 586|->("saw": 1)
+ 587|->("on": 26)
+ 588|->("760": 1)
+ 589|->("stepping": 1)
+ 590|
+ 591|->("tall": 1)->("or": 17)->("torpedo": 1)
+ 592|
+ 593|->("copy": 1)->("scarcely": 1)->("Soviet": 1)->("time": 2)
+ 594|->("nating": 1)->("hailed": 2)->("described": 1)->("ran": 1)
+ 595|
+ 596|->("putting": 1)
+ 597|->("heat": 1)
+ 598|
+ 599|->("grand": 1)->("Horses": 1)
+ 600|->("overlooked": 1)->("scale": 3)
+ 601|->("vanquishing": 1)->("commercial": 1)
+ 602|
+ 603|
+ 604|->("Perhaps": 2)->("ground": 7)->("successful": 1)
+ 605|->("practical": 1)
+ 606|->("reach": 1)->("absolute": 1)
+ 607|->("kill": 1)->("explained": 2)
+ 608|->("preposterous": 1)
+ 609|->("never": 2)->("ignition": 1)
+ 610|->("release": 3)->("inventor's": 3)
+ 611|->("actually": 1)
+ 612|
+ 613|->("desperate": 2)
+ 614|->("mechanism": 1)
+ 615|->("should": 1)->("heavy": 1)
+ 616|->("moving": 1)->("weapon": 9)
+ 617|->("hotel": 1)->("Pierpont": 1)
+ 618|
+ 619|
+ 620|->("2253": 1)->("privy": 1)->("sphere": 1)
+ 621|->("[1": 1)->("off": 2)
+ 622|->("confidence": 1)->("to": 116)
+ 623|->("encourage": 1)
+ 624|->("strong": 3)->("explanation": 2)
+ 625|->("cataclysmic": 1)
+ 626|->("far": 2)->("recent": 1)->("copyrighted": 1)
+ 627|->("dream": 1)
+ 628|->("crackling": 1)
+ 629|->("emotional": 1)
+ 630|->("harmful": 1)->("bills": 2)
+ 631|->("resistance": 1)
+ 632|->("River": 1)->("engineer": 1)
+ 633|->("generate": 1)->("costly": 1)->("particles": 5)->("stable": 1)->("Forest": 1)
+ 634|->("August": 2)->("previous": 1)
+ 635|->("establish": 1)
+ 636|
+ 637|->("creative": 1)->("remotely": 2)
+ 638|->("returned": 2)->("maximum": 1)
+ 639|
+ 640|->("offered": 1)
+ 641|
+ 642|->("beat": 1)
+ 643|->("catalyst": 1)
+ 644|->("require": 2)->("platforms": 1)->("Trotsky's": 1)
+ 645|->("kind": 1)->("beam": 2)->("shrivel": 1)
+ 646|->("fall": 1)->("comments": 1)->("behind": 1)
+ 647|
+ 648|->("commenting": 1)->("pay": 4)
+ 649|->("leave": 1)->("becomes": 1)
+ 650|->("elaborated": 1)
+ 651|->("us": 1)->("enemy": 2)
+ 652|->("stations": 2)->("feet": 6)
+ 653|->("Waldorf": 1)->("murder": 1)
+ 654|->("shock": 1)->("ice": 2)->("up": 8)
+ 655|
+ 656|->("opposite": 2)->("rather": 1)
+ 657|->("were": 11)
+ 658|->("army": 1)
+ 659|
+ 660|->("mathematical": 1)->("paralyze": 1)
+ 661|->("wanted": 2)->("theory": 1)->("physics": 2)->("anything": 2)
+ 662|->("mph": 1)
+ 663|->("approaching": 2)
+ 664|->("letter": 7)->("send": 3)
+ 665|
+ 666|->("judgement": 2)->("revolutionary": 1)
+ 667|->("people": 2)->("range": 1)->("Bursting": 1)
+ 668|->("many": 4)
+ 669|->("Dirac's": 1)
+ 670|
+ 671|->("air": 5)
+ 672|
+ 673|->("real": 2)
+ 674|->("others": 1)
+ 675|->("Important": 1)->("circles": 2)
+ 676|->("intruder": 1)->("livery": 1)->("that": 46)
+ 677|
+ 678|
+ 679|->("direction": 1)
+ 680|->("tested": 1)->("old": 1)->("1917": 2)
+ 681|->("overshot": 1)->("England": 1)
+ 682|->("coming": 1)->("1915": 5)->("defense": 1)
+ 683|->("circumstantial": 2)->("Siberia": 2)
+ 684|->("accepted": 2)->("whether": 3)
+ 685|->("station's": 1)->("annihilate": 1)->("aid": 2)
+ 686|
+ 687|->("gathered": 1)->("Made": 1)
+ 688|->("regions": 1)->("venturing": 1)
+ 689|->("whatever": 1)
+ 690|
+ 691|->("Newfoundland": 1)
+ 692|
+ 693|
+ 694|->("dust": 1)
+ 695|->("frightened": 1)
+ 696|
+ 697|
+ 698|
+ 699|
+ 700|->("weaker": 1)
+ 701|
+ 702|->("path": 2)->("than": 8)
+ 703|->("vehicles": 1)
+ 704|->("magnitude": 1)->("Discovered": 1)
+ 705|->("something": 1)
+ 706|->("readily": 1)->("stream": 2)->("can": 9)
+ 707|->("vaporized": 1)->("their": 4)
+ 708|
+ 709|->("transmitted": 1)
+ 710|->("Stony": 1)->("Dirt": 1)
+ 711|->("1910": 1)->("enormous": 1)->("Ray'": 1)
+ 712|->("1906": 4)->("each": 1)
+ 713|->("1970's": 1)->("possibility": 1)->("station": 3)->("1907": 3)
+ 714|->("1904": 2)->("News": 1)->("Matthews": 4)
+ 715|->("before": 4)->("implements": 1)->("1905": 1)->("construction": 1)
+ 716|
+ 717|->("jury": 1)
+ 718|->("1908": 5)->("imposed": 1)->("[that]": 1)
+ 719|->("1909": 1)->("might": 2)
+ 720|->("establishment": 1)->("spurned": 1)->("Fall": 1)
+ 721|->("already": 2)->("hopes": 1)->("case": 2)->("pride": 1)->("coast": 1)
+ 722|->("conducted": 1)->("remembered": 1)->("light": 2)
+ 723|
+ 724|->("day": 1)
+ 725|
+ 726|->("aiming": 1)
+ 727|->("profound": 1)->("order": 2)->("enabling": 1)->("transmitter": 17)
+ 728|->("telephoned": 1)
+ 729|->("Sunday": 1)
+ 730|->("discoveries": 1)->("Ordinary": 1)->("scientists": 1)->("Nikola": 3)
+ 731|->("problems": 1)->("zone": 1)->("Experiments": 1)
+ 732|->("little": 1)->("financial": 5)
+ 733|->("Downloaded": 1)
+ 734|->("missed": 2)
+ 735|->("protection": 2)->("stated": 3)->("through": 9)
+ 736|->("outstanding": 1)->("These": 2)
+ 737|->("devastating": 1)->("Range": 1)
+ 738|
+ 739|->("mortal": 1)->("ancient": 1)->("blue": 1)->("purpose": 2)
+ 740|->("1902": 1)
+ 741|->("Astoria": 1)->("1903": 1)
+ 742|->("pacifistic": 1)->("places": 1)->("Stanford": 1)->("1900": 4)
+ 743|->("projecting": 2)->("Problem": 1)
+ 744|->("118": 1)->("1935": 1)->("leaked": 1)->("sufficient": 1)
+ 745|->("1934": 1)->("destroy": 6)
+ 746|->("recounted": 1)->("plants": 3)
+ 747|->("alter": 1)->("drink": 1)->("overwhelmed": 1)
+ 748|
+ 749|->("pieces": 1)->("Wars": 1)->("newspapers": 1)
+ 750|->("nuclear": 2)->("method": 2)
+ 751|
+ 752|->("part": 1)
+ 753|->("produce": 3)->("projected": 1)
+ 754|->("pound": 1)
+ 755|
+ 756|->("amateur": 1)->("turns": 2)
+ 757|->("Marconi's": 2)->("decided": 1)
+ 758|->("contain": 1)
+ 759|->("transmitters": 3)->("defensive": 4)
+ 760|->("scientific": 2)
+ 761|->("down": 4)->("Weapon": 1)
+ 762|
+ 763|->("His": 5)->("company's": 2)
+ 764|
+ 765|
+ 766|->("limited": 1)->("sewing": 3)->("released": 4)->("researches": 1)
+ 767|->("charge": 1)->("high": 10)->("generated": 1)
+ 768|->("sky": 1)
+ 769|->("control": 1)
+ 770|
+ 771|->("region": 4)->("laboratory": 4)
+ 772|->("terrestrial": 1)->("shoot": 1)->("Russia": 1)->("invisible": 1)
+ 773|->("material": 1)->("glad": 1)->("Fork": 1)
+ 774|->("spoke": 1)->("spouting": 1)->("sensitive": 1)->("Lee": 1)
+ 775|->("devices": 1)->("revealed": 1)
+ 776|->("62": 1)->("sent": 3)->("only": 2)->("make": 3)->("1924": 1)
+ 777|->("1880's": 1)->("$928": 1)
+ 778|
+ 779|->("1927": 1)->("constructed": 3)
+ 780|
+ 781|
+ 782|->("atomic": 2)->("terms": 1)->("21st": 2)
+ 783|
+ 784|
+ 785|->("researcher": 1)->("relatively": 2)->("100": 6)
+ 786|->("68": 1)
+ 787|->("conclusively": 1)->("negative": 1)->("turned": 2)->("large": 8)
+ 788|->("wire": 1)
+ 789|->("fear": 1)
+ 790|
+ 791|->("invention": 5)
+ 792|
+ 793|
+ 794|
+ 795|->("electric": 5)
+ 796|->("wires": 1)
+ 797|->("raise": 1)->("pulsing": 1)->("insects": 1)
+ 798|->("contrary": 1)
+ 799|->("engines": 1)->("broadcasters": 1)
+ 800|
+ 801|->("electron": 1)
+ 802|->("those": 2)
+ 803|->("point": 6)->("destroyed": 5)->("because": 5)
+ 804|->("they": 3)
+ 805|->("having": 4)
+ 806|->("dome": 1)
+ 807|->("Tunguska": 7)
+ 808|->("too": 2)
+ 809|
+ 810|->("occurred": 1)
+ 811|->("geological": 2)->("ton": 2)->("'": 2)
+ 812|->("either": 2)->("Cornwall": 1)->("treatment": 1)->("135": 1)
+ 813|->("architect": 1)->("unexpectedly": 1)->("Any": 1)->("Increasing": 1)
+ 814|->("place": 3)->("Puharich": 1)
+ 815|
+ 816|->("property": 2)->("Gazette": 2)
+ 817|->("Even": 2)
+ 818|->("early": 1)
+ 819|
+ 820|
+ 821|->("Morgan": 6)->("transmission": 12)
+ 822|->("kept": 1)
+ 823|
+ 824|->("completely": 2)->("thrust": 1)->("earth's": 2)->("them": 2)
+ 825|
+ 826|->("experts": 2)
+ 827|->("forms": 1)->("then": 3)->("Electrical": 4)
+ 828|->("moved": 1)->("Jacob": 1)
+ 829|->("brought": 1)
+ 830|->("pronouncements": 1)->("difficult": 1)->("master": 2)->("started": 1)
+ 831|
+ 832|->("bolt": 1)
+ 833|
+ 834|->("storage": 1)
+ 835|->("six": 1)
+ 836|->("stressed": 1)->("machines": 1)
+ 837|
+ 838|->("hole": 1)->("located": 2)
+ 839|->("rapidly": 1)
+ 840|->("80": 2)->("why": 2)
+ 841|->("where": 2)
+ 842|
+ 843|->("became": 2)
+ 844|->("degrees": 1)
+ 845|
+ 846|->("Electrotherapeutic": 1)->("duty": 2)->("important": 1)->("operating": 1)
+ 847|->("financiers": 1)->("shoes": 1)
+ 848|->("uninhabited": 1)->("use": 4)->("one": 7)
+ 849|->("with": 14)->("for": 36)
+ 850|->("itself": 1)->("captured": 1)->("press": 3)
+ 851|->("sending": 2)
+ 852|->("MHz": 1)->("oil": 2)->("destructive": 11)
+ 853|->("bolts": 2)
+ 854|->("eight": 1)
+ 855|->("Property": 1)
+ 856|->("Marc": 1)->("thinner": 1)
+ 857|->("Given": 1)->("really": 1)->("turn": 2)->("technical": 2)
+ 858|
+ 859|
+ 860|
+ 861|->("transformations": 1)
+ 862|->("inconvenience": 1)->("declares": 1)->("by": 42)
+ 863|->("angry": 2)
+ 864|
+ 865|
+ 866|->("land": 1)->("small": 3)->("city's": 1)
+ 867|->("From": 1)->("around": 1)
+ 868|->("illness": 1)->("coasts": 1)
+ 869|->("Air": 1)
+ 870|->("perhaps": 1)
+ 871|->("amazed": 1)->("claimed": 4)
+ 872|->("story": 3)->("sic": 1)
+ 873|
+ 874|
+ 875|
+ 876|
+ 877|->("'Death": 1)
+ 878|->("times": 1)
+ 879|->("bomb": 1)->("completion": 1)->("side": 1)
+ 880|->("March": 1)->("Podosinsky": 1)->("spark": 2)
+ 881|
+ 882|->("Experimenter": 1)->("Communist": 1)->("be": 41)
+ 883|->("pointed": 2)
+ 884|
+ 885|->("discovery": 1)
+ 886|->("experi": 1)->("28th": 1)
+ 887|->("closely": 1)->("owed": 1)->("electrified": 1)->("Nichelson": 2)
+ 888|->("remains": 1)
+ 889|->("help": 1)
+ 890|->("Europe": 1)->("Andrija": 1)->("named": 1)
+ 891|->("Undercut": 1)->("best": 2)
+ 892|
+ 893|
+ 894|->("state": 1)->("travel": 1)
+ 895|->("capable": 3)
+ 896|->("De": 1)
+ 897|->("fire": 1)->("not": 16)
+ 898|->("Whoever": 1)->("shirker": 1)
+ 899|->("nor": 1)
+ 900|->("mice": 1)
+ 901|
+ 902|->("And": 1)->("collapse": 1)->("now": 2)->("pair": 3)
+ 903|->("horsepower": 2)
+ 904|->("yearly": 1)->("modern": 1)
+ 905|->("fleet": 3)
+ 906|->("Left": 1)
+ 907|
+ 908|
+ 909|
+ 910|->("tried": 1)->("long": 1)
+ 911|->("non": 1)->("development": 2)->("When": 9)
+ 912|->("amount": 3)->("reports": 1)
+ 913|->("generator": 6)
+ 914|
+ 915|->("Many": 3)
+ 916|
+ 917|->("Marconi": 4)->("circle": 2)->("Star": 1)
+ 918|->("main": 1)->("include": 1)->("protested": 1)->("headline": 2)
+ 919|->("Colorado": 12)
+ 920|->("professional": 1)
+ 921|->("acres": 2)->("New": 4)
+ 922|
+ 923|
+ 924|
+ 925|->("population": 1)->("carried": 3)
+ 926|->("December": 1)->("wireless": 9)
+ 927|->("danger": 1)
+ 928|
+ 929|->("holds": 1)
+ 930|->("making": 1)->("water": 1)
+ 931|->("category": 1)
+ 932|->("engineering": 1)
+ 933|->("know": 3)
+ 934|
+ 935|->("out": 12)
+ 936|->("face": 1)->("forces": 1)
+ 937|->("engineers": 1)
+ 938|->("do": 1)->("cannot": 1)
+ 939|->("labor": 1)
+ 940|->("di": 1)->("four": 1)->("Audion": 1)
+ 941|->("resonating": 1)
+ 942|
+ 943|->("this": 14)
+ 944|
+ 945|
+ 946|
+ 947|->("any": 9)
+ 948|
+ 949|->("particle": 2)->("Dr": 1)->("did": 5)->("local": 3)
+ 950|->("struck": 1)->("between": 4)
+ 951|->("race": 1)
+ 952|->("projects": 1)
+ 953|->("call": 1)
+ 954|->("Canada": 1)->("Sale": 1)->("solution": 1)
+ 955|->("contenders": 1)
+ 956|->("human": 1)
+ 957|->("shake": 1)->("line": 1)->("motive": 1)->("morning": 1)->("application": 2)
+ 958|
+ 959|->("exact": 1)->("hero": 1)
+ 960|->("recognized": 1)->("ever": 1)
+ 961|->("uninhabitable": 1)->("death": 7)
+ 962|->("interpreting": 1)
+ 963|
+ 964|->("4": 1)->("even": 3)->("pressure": 2)->("Anyone": 1)->("plant": 1)->("reported": 2)->("called": 3)->("and": 57)
+ 965|->("done": 1)->("plans": 1)->("portion": 1)->("5": 1)
+ 966|->("2": 2)->("hundred": 1)
+ 967|->("trans": 1)->("classical": 1)
+ 968|->("disadvantage": 1)
+ 969|->("I": 8)
+ 970|->("searchlight": 1)
+ 971|->("industrialists": 1)->("after": 1)
+ 972|->("demoralized": 1)->("12th": 1)->("Soviets": 1)
+ 973|->("officially": 1)->("doubted": 1)
+ 974|->("J": 4)
+ 975|->("disaster": 1)
+ 976|->("North": 3)->("As": 6)
+ 977|->("entered": 2)->("being": 2)->("claiming": 1)->("rendered": 2)->("A": 3)
+ 978|->("different": 2)
+ 979|->("At": 1)->("breakdown": 1)
+ 980|->("secret": 2)->("along": 2)
+ 981|->("overcome": 1)->("E": 1)
+ 982|->("anti": 1)
+ 983|->("C": 1)
+ 984|->("guiding": 1)->("gunpowder": 1)
+ 985|->("unavoidable": 2)->("economic": 1)->("Sensing": 1)
+ 986|->("Am": 1)
+ 987|
+ 988|
+ 989|->("An": 1)->("Sheriff's": 1)
+ 990|->("effort": 2)
+ 991|
+ 992|->("P": 2)->("620": 1)
+ 993|->("weapons": 1)->("went": 1)
+ 994|->("very": 5)->("stalls": 1)->("N": 1)
+ 995|->("Century": 1)->("there": 7)
+ 996|->("just": 3)->("scheme": 2)
+ 997|->("giant": 1)
+ 998|
+ 999|->("S": 1)->("involved": 1)->("amperes": 1)->("arresting": 1)
